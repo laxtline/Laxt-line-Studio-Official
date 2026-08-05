@@ -1,4 +1,4 @@
-# LAXTLINE — Portfolio Website
+ # LAXTLINE — Portfolio Website
 
 A cinematic, single‑page portfolio for **LAXTLINE** — a visual storyteller & video editor based in
 Bhubaneswar, Odisha, India. The site showcases video edits, VFX, color grading, gaming montages,
