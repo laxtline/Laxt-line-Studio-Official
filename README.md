@@ -1,6 +1,6 @@
 # LAXTLINE Portfolio
 
-> **Live:** https://laxtline.github.io/laxt-line-studio3/
+> **Live:** [Link](https://github.com/laxtline/Laxtline.git)
 
 ---
 
@@ -142,9 +142,9 @@ Then open `http://localhost:8000`
 
 ## Live Demo
 
-**🌐 https://laxtline.github.io/laxt-line-studio3/**
+**🌐 https://github.com/laxtline/Laxtline.git
 
-**GitHub:** https://github.com/laxtline/laxt-line-studio3
+**GitHub:** (https://github.com/laxtline/Laxtline.git)
 
 ### What to look for when you visit:
 
