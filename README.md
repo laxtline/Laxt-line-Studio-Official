@@ -221,7 +221,7 @@ The screenshots below are the actual images used on the page.
 
 **About section**
 
-![About section](assets/about-dp.jpg)
+![About section](assets/about-bg.jpg)
 
 **Brand mark**
 
