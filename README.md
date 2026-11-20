@@ -299,7 +299,6 @@ so it should be changed to the real domain.
 ## Contact
 
 - **Email:** suryakant321pradhan@gmail.com
-- **Phone:** +91 78480 03467
 - **Location:** Bhubaneswar, Odisha, India
 - **Instagram:** [@surya.pradhan\_](https://www.instagram.com/surya.pradhan_/)
 - **LinkedIn:** [Suryakanta Pradhan](https://www.linkedin.com/in/suryakanta-pradhan-b4179b27a/)
